@@ -1,4 +1,10 @@
-### Hi there 👋
+## Brandon Dyer
+
+Hi, I'm Brandon. I build lots of things here on my GitHub. Some of my latest work is private _for now_, but I'll let everyone know the moment it goes public! I'm a professional software engineer with a passion for systems, frontend, and graphics programming.
+
+I work at [Rural Sourcing](https://ruralsourcing.com) as an Analyst level Engineer working on enterprise Java / Node backends and React / Angular frontends.
+
+SCRUM for life. Esperanto estas mia lingvo. Dvorak keys. Rewrite everything in Rust. LinuOklahoma City 🇺🇸
 
 <!--
 **BrandonDyer64/BrandonDyer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
