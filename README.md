@@ -4,7 +4,9 @@ Hi, I'm Brandon. I build lots of things here on my GitHub. Some of my latest wor
 
 I work at [Rural Sourcing](https://ruralsourcing.com) as an Analyst level Engineer working on enterprise Java / Node backends and React / Angular frontends.
 
-SCRUM for life. Esperanto estas mia lingvo. Dvorak keys. Rewrite everything in Rust. LinuOklahoma City 🇺🇸
+SCRUM for life. Esperanto estas mia lingvo. Dvorak keys. Rewrite everything in Rust. Linux > Windows.
+
+Oklahoma City 🇺🇸 US
 
 <!--
 **BrandonDyer64/BrandonDyer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
