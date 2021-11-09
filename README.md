@@ -1,10 +1,10 @@
 ## Brandon Dyer
 
-Hi, I'm Brandon [he/him]. I build lots of things here on my GitHub. Some of my latest work is private _for now_, but I'll let everyone know the moment it goes public! I'm a professional software engineer with a passion for systems, frontend, and graphics programming.
+Hi, I'm Brandon (he/him). I build lots of things here on my GitHub. I'm a professional software engineer with a passion for systems, frontend, and graphics programming.
 
-I work at [Rural Sourcing](https://ruralsourcing.com) as an Analyst level Engineer working on enterprise Java / Node backends and React / Angular frontends.
+I work at Disney as a Software Engineer working on their streaming platform in Rust.
 
-I'm a huge fan of Rust and am working towards making it my primary language both professionally and as a hobby. I love SCRUM and Agile development, I speak Epseranto, and I use the Dvorak keyboard layout.
+I'm a huge fan of Rust and am working towards making it my primary language, both on the frontend and backend. I love SCRUM and Agile development, I speak Epseranto, and I use the Dvorak keyboard layout.
 
 Oklahoma City 🇺🇸 US
 
