@@ -6,7 +6,7 @@ I work at Disney as a Software Engineer working on their streaming platform in R
 
 I'm a huge fan of Rust and am working towards making it my primary language, both on the frontend and backend. I love SCRUM and Agile development, I speak Epseranto, and I use the Dvorak keyboard layout.
 
-Oklahoma City 🇺🇸 US
+Longmont Colorado 🇺🇸 US
 
 <!--
 **BrandonDyer64/BrandonDyer64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
